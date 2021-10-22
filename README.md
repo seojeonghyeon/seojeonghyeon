@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, Curious Rabbits!
+### 아직 궁금한게 많지만 한결 같이 노력하는 웹(Backend)개발분야 지망생입니다^^!
 
 <!--
 **seojeonghyeon/seojeonghyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 업무 경험
+  + 2019.03.01 ~ 2021.06.30 : 8567부대 육군 중위(만기제대)
+  + 2021.09.17 ~ 2021.10.18 : 창업 앱 'Mood' 웹 서버(Backend) 개발(Spring Boot(MSA), MariaDB)
+
+
+- 🌱 학력
+  + 2015.03.01 ~ 2019.02.28 : 한성대학교 공과대학 학사과정(졸업)
+  + 2019.09.01 ~ 2021.08.07 : 아주대학교 정보통신대학원 정보통신공학과 석사과정(졸업)
+
+
+- 📫 How to reach me
+  + seojeonghyeon0630@gmail.com 
