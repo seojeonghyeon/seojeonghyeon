@@ -1,5 +1,5 @@
-## Hi, Curious Rabbits!
-### 아직 궁금한게 많지만 한결 같이 노력하는 웹(Backend)개발분야 지망생입니다 :flushed:
+### Hi, Curious Rabbits!
+#### 아직 궁금한게 많지만 한결 같이 노력하는 웹(Backend)개발분야 지망생입니다 :flushed:
 
 <!--
 **seojeonghyeon/seojeonghyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
