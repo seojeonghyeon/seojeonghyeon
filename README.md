@@ -27,3 +27,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me
   + seojeonghyeon0630@gmail.com 
+
+- GitHub 내 프로젝트
+  + 정보자산 관리서비스(Information-Knowledge-Management-System-Using-by-Spring-Framework)
+  + 쓰레기통 모니터링 서비스(IoT-Based-Garbage-Monitoring-Service)
+  + Mood 데이팅 앱 어플리케이션 서버(Mood-Web)
