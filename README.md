@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡ Skill
+  + Spring Boot(MSA / Spring Cloud Gateway, Eureka Server, Kafka, Spring Security, Spring JPA) : 중
+  + MariaDB(MySQL) : 중
+  + Java 8 : 중
+  + 관심있는 분야 : Vue.js(+ Nuxt.js)   😉취업 이후 목표는 풀스택 개발자!
+
 - 🔭 업무 경험
-  + 2019.03.01 ~ 2021.06.30 : 8567부대 육군 중위(만기제대)
+  + 2019.03.01 ~ 2021.06.30 : 8567부대 육군 중위(만기 전역)
   + 2021.09.17 ~ 2021.10.18 : 창업 앱 'Mood' 웹 서버(Backend) 개발(Spring Boot(MSA), MariaDB)
 
 
