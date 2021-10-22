@@ -19,7 +19,10 @@ Here are some ideas to get you started:
   + Spring Boot(MSA / Spring Cloud Gateway, Eureka Server, Kafka, Spring Security, Spring JPA) : 중
   + MariaDB(MySQL) : 중
   + Java 8 : 중
-  + 관심있는 분야 : Vue.js(+ Nuxt.js)   😉취업 이후 목표는 풀스택 개발자!
+  + 관심있는 분야 
+    + Vue.js(+ Nuxt.js)   😉취업 이후 목표는 풀스택 개발자!
+    + AI(NLP)             😊대학원 과정 + 조금씩 공부 중!
+    + Computer Vision     🙃대학원 과정 -> 활용 단계로!
 
 - 🔭 업무 경험
   + 2019.03.01 ~ 2021.06.30 : 8567부대 육군 중위(만기 전역)
