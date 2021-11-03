@@ -41,3 +41,6 @@ Here are some ideas to get you started:
   + 정보자산 관리서비스(Information-Knowledge-Management-System-Using-by-Spring-Framework)
   + 쓰레기통 모니터링 서비스(IoT-Based-Garbage-Monitoring-Service)
   + Mood 데이팅 앱 어플리케이션 서버(Mood-Web)
+
+-🙈 Channel
+  + Blog : https://seojeonghyeon0630.notion.site/Zayden-s-Blog-fba03c0cc0b3413bbcf27cfc043d7aec 
