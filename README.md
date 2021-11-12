@@ -41,17 +41,24 @@ Here are some ideas to get you started:
   + 정보자산 관리서비스(Information-Knowledge-Management-System-Using-by-Spring-Framework)
     + 담당역할 : 팀원(서버개발(프론트엔드 + 백엔드))
     + 구현기능 : 게시판 기능, Firebase를 활용한 알림기능, QR코드 생성 페이지, 회원 관리 등
-    + 사용기술 : 프로젝트 관리( Redmine ) / 개발( Spring Framework(MVC model), Mybatis, MariaDB ) / 배포( Amazon EC2 )
+    + 사용기술 : 
+      + 프로젝트 관리 : Redmine
+      + 프로젝트 개발 : Spring Framework(MVC model), Mybatis, MariaDB
+      + 프로젝트 배포 : Amazon EC2 Server
   + 쓰레기통 모니터링 서비스(IoT-Based-Garbage-Monitoring-Service)
     + 담당역할 : 팀장(기획 문서화(요구사항명세서 제작), 팀원업무 분배, 서버개발(프론트엔드+백엔드), ARTIK S/W구축)
     + 구현기능 : Firebase를 활용한 알림기능, SAMSUNG ARTIK Cloud와 연동, 서버와 ARTIKS/W, 안드로이드 통신(RESTful API(JSON)) 등 
-    + 사용기술 : 프로젝트 관리( Documents ) / 개발( Spring Framework(MVC model), Hibernate, MariaDB ) / 배포( Amazon EC2 )
+    + 사용기술 : 
+      + 프로젝트 관리 : Documents
+      + 프로젝트 개발 : Spring Framework(MVC model), Hibernate, MariaDB
+      + 프로젝트 배포 : Amazon EC2 Server
   + Mood 데이팅 앱 어플리케이션 서버(Mood-Web)
     + 담당역할 : 팀원(백엔드 서버개발)
     + 구현기능 : 알고리즘 구현(다각형 넓이 Search, Mood Distance Search), RESTful API를 활용한 안드로이드와 통신, 회원관리, SMS메세지 전송(coolSMS, ATALK), 게시물 관리, 사람간 매칭 서비스, 신고하기 기능, 스케줄러 기능(0시마다 VIP등급에게 코인 할당, 등급 갱신, 회원 수 확인 등)등
-    + 사용기술 : 프로젝트 관리( Notion(전체적인 Flow관리), Google Documents(Google Slides : 기획서), Documents(서버개발 진행사항 관리 )
-                / 개발( Spring Boot(MSA구조 : Spring Cloud Gateway, Name Server Eureka Server, Config Server, Openfeign..), Spring Data JPA(Hibernate), MariaDB
-                 / 배포( Amazon EC2, Docker(Bridge Network), GitHub내 Config설정정보 연동(mood-cloud-config) )
+    + 사용기술 : 
+      + 프로젝트 관리 : Notion(전체적인 Flow관리), Google Documents(Google Slides : 기획서), Documents(서버개발 진행사항 관리)
+      + 프로젝트 개발 : Spring Boot(MSA구조 : Spring Cloud Gateway, Name Server Eureka Server, Config Server, Openfeign..), Spring Data JPA(Hibernate), MariaDB
+      + 프로젝트 배포 : Amazon EC2, Docker(Bridge Network), GitHub 내 Config설정정보 연동(mood-cloud-config)
 
 -🙈 Channel
   + Blog : https://seojeonghyeon0630.notion.site/Zayden-s-Blog-fba03c0cc0b3413bbcf27cfc043d7aec 
