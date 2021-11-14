@@ -1,6 +1,6 @@
 ### Hi, Curious Rabbits(🐰🐰🐰)!
 #### 아직 궁금한게 많지만 한결 같이 노력하는 웹(Backend)개발분야 지망생입니다 :flushed:
-
+***
 <!--
 **seojeonghyeon/seojeonghyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,20 +23,20 @@ Here are some ideas to get you started:
     + Vue.js(+ Nuxt.js)   😉취업 이후 목표는 풀스택 개발자!
     + AI(NLP)             😊대학원 과정 + 조금씩 공부 중!
     + Computer Vision     🙃대학원 과정 -> 활용 단계로!
-
+***
 - 🔭 업무 경험
   + 2019.03.01 ~ 2021.06.30 : 8567부대 육군 중위(만기 전역)
   + 2021.09.17 ~ 2021.10.18 : 창업(준비) 앱 'Mood' 웹 서버(Backend) 개발(Spring Boot(MSA), MariaDB)
-
+***
 
 - 🌱 학력
   + 2015.03.01 ~ 2019.02.28 : 한성대학교 공과대학 학사과정(졸업)
   + 2019.09.01 ~ 2021.08.07 : 아주대학교 정보통신대학원 정보통신공학과 석사과정(졸업)
-
+***
 
 - 📫 How to reach me
   + seojeonghyeon0630@gmail.com 
-
+***
 - :octocat: GitHub 내 프로젝트
     + Mood 데이팅 앱 어플리케이션 서버(Mood-Web) 2021.09~2021.10
       + 담당역할 : 팀원(백엔드 서버개발)
@@ -59,11 +59,11 @@ Here are some ideas to get you started:
         + 프로젝트 관리 : Redmine
         + 프로젝트 개발 : Spring Framework(MVC model), Mybatis, MariaDB
         + 프로젝트 배포 : Amazon EC2 Server
-
+***
 - ⚓ GitHub 외 프로젝트
   + ARTIK 플랫폼을 활용한 야외운동기구 개발
     + 학술대회 발표눈문 : https://www.koreascience.or.kr/article/CFKO201831342440983.pdf
     + 담당역할 : 팀장(기획 문서화(요구사항명세서 제작), 팀원업무 분배, 서버개발(프론트+백엔드), ARTIK S/W구축)  
-
+***
 - 🙈 Channel
   + Blog : https://seojeonghyeon0630.notion.site/Zayden-s-Blog-fba03c0cc0b3413bbcf27cfc043d7aec 
