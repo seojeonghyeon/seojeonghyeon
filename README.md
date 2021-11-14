@@ -60,6 +60,10 @@ Here are some ideas to get you started:
         + 프로젝트 개발 : Spring Framework(MVC model), Mybatis, MariaDB
         + 프로젝트 배포 : Amazon EC2 Server
 
+- ⚓ GitHub 외 프로젝트
+  + ARTIK 플랫폼을 활용한 야외운동기구 개발
+    + 학술대회 발표눈문 : https://www.koreascience.or.kr/article/CFKO201831342440983.pdf
+    + 담당역할 : 팀장(기획 문서화(요구사항명세서 제작), 팀원업무 분배, 서버개발(프론트+백엔드), ARTIK S/W구축)  
 
 -🙈 Channel
   + Blog : https://seojeonghyeon0630.notion.site/Zayden-s-Blog-fba03c0cc0b3413bbcf27cfc043d7aec 
