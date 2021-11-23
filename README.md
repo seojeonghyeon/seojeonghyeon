@@ -47,7 +47,8 @@ Here are some ideas to get you started:
         + 프로젝트 개발 : Spring Boot(MSA구조 : Spring Cloud Gateway, Name Server Eureka Server, Config Server, Openfeign..), Spring Security, Spring Data JPA(Hibernate), MariaDB
         + 프로젝트 배포 : Amazon EC2, Docker(Bridge Network), GitHub 내 Config설정정보 연동(mood-cloud-config) 
     + 쓰레기통 모니터링 서비스(IoT-Based-Garbage-Monitoring-Service) 2018.11~2019.12 
-      + 
+      + 진행내용 : 청소부들이 직접 찾아가서 확인하지 않아도 각 위치에 배치된 쓰레기통의 양을 측정하여 보여주는 앱, 웹 서비스 제공.
+      + 발전방향 : 악취 측정 센서 부착, 누적 측정량, 악취 측정을 통한 자주 비워주어야 하는 쓰레기통과 사람들이 자주 사용하지 않는 쓰레기통 추적 가능.
       + 담당역할 : 팀장(기획 문서화(요구사항명세서 제작), 팀원업무 분배, 서버개발(프론트엔드+백엔드), ARTIK S/W구축)
       + 구현기능 : Firebase를 활용한 알림기능, SAMSUNG ARTIK Cloud와 연동, 서버와 ARTIKS/W, 안드로이드 통신(RESTful API(JSON)) 등 
       + 사용기술 : 
@@ -55,6 +56,7 @@ Here are some ideas to get you started:
         + 프로젝트 개발 : Spring Framework(MVC model), Hibernate, MariaDB
         + 프로젝트 배포 : Amazon EC2 Server
     + 정보자산 관리서비스(Information-Knowledge-Management-System-Using-by-Spring-Framework)  2017.03~2017.11
+      + 진행내용 : 관리하기 어려운 정보자산을 관리하기 위해 정보자산에 QR코드를 부착하여 관리하는 앱, 웹 서비스를 제공
       + 담당역할 : 팀원(서버개발(프론트엔드 + 백엔드))
       + 구현기능 : 게시판 기능, Firebase를 활용한 알림기능, QR코드 생성 페이지, 회원 관리 등
       + 사용기술 : 
@@ -64,6 +66,7 @@ Here are some ideas to get you started:
 ***
 - ⚓ GitHub 외 프로젝트
   + ARTIK 플랫폼을 활용한 야외운동기구 개발
+    + 진행내용 : 공원에 보이는 야외운동기구에 앱을 통한 회원관리, 운동을 통한 마일리지 적립, 미세먼지 정보 제공 등 앱 서비스 제공
     + 학술대회 발표눈문 : https://www.koreascience.or.kr/article/CFKO201831342440983.pdf
     + 담당역할 : 팀장(기획 문서화(요구사항명세서 제작), 팀원업무 분배, 서버개발(프론트+백엔드), ARTIK S/W구축)  
 ***
