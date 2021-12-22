@@ -45,7 +45,7 @@ Here are some ideas to get you started:
         + 프로젝트 관리 : Notion(전체적인 Flow관리), Google Documents(Google Slides : 기획서), Documents(서버개발 진행사항 관리)
         + 프로젝트 개발 : Spring Boot(MSA구조 : Spring Cloud Gateway, Name Server Eureka Server, Config Server, Openfeign..), Spring Security, Spring Data JPA(Hibernate), MariaDB
         + 프로젝트 배포 : Amazon EC2, Docker(Bridge Network), GitHub 내 Config설정정보 연동(mood-cloud-config) 
-    + 쓰레기통 모니터링 서비스(IoT-Based-Garbage-Monitoring-Service) 2018.11~2019.12 
+    + 쓰레기통 모니터링 서비스(IoT-Based-Garbage-Monitoring-Service) 2018.11~2019.01 
       + 진행내용 : 청소부들이 직접 찾아가서 확인하지 않아도 각 위치에 배치된 쓰레기통의 양을 측정하여 보여주는 앱, 웹 서비스 제공.
       + 발전방향 : 악취 측정 센서 부착, 누적 측정량, 악취 측정을 통한 자주 비워주어야 하는 쓰레기통과 사람들이 자주 사용하지 않는 쓰레기통 추적 가능.
       + 담당역할 : 팀장(기획 문서화(요구사항명세서 제작), 팀원업무 분배, 서버개발(프론트엔드+백엔드), ARTIK S/W구축)
