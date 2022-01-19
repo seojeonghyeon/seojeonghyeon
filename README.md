@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚡ Skill
-  + Spring Boot(MSA / Spring Cloud Gateway, Eureka Server, Kafka, Spring Security, Spring JPA) : 중
+  + Spring Boot(Mono, MVC) : 중
+  + Spring Cloud(MSA, Kafka) : 중
   + MariaDB(MySQL) : 중
   + Java 8 : 중
+  + Docker : 중
   + 관심있는 분야 
     + Vue.js(+ Nuxt.js)   😉
     + AI(NLP)             😊
