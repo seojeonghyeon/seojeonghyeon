@@ -1,5 +1,5 @@
 ### Hi, Curious Rabbits(🐰🐰🐰)!
-#### 아직 궁금한게 많지만 한결 같이 노력하는 웹(Backend)개발분야 지망생입니다 :flushed:
+#### 아직 궁금한게 많지만 꾸준히 노력하는 Software Enginner입니다. :flushed:
 ***
 <!--
 **seojeonghyeon/seojeonghyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ***
 - 🔭 업무 경험
   + 2019.03.01 ~ 2021.06.30 : 8567부대 육군 중위(만기 전역)
+  + 2022.02.07 ~            : 현대오토에버 Software Engineer
 ***
 
 - 🌱 학력
