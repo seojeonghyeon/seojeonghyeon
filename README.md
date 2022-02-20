@@ -73,4 +73,5 @@ Here are some ideas to get you started:
     + 담당역할 : 팀장(기획 문서화(요구사항명세서 제작), 팀원업무 분배, 서버개발(프론트+백엔드), ARTIK S/W구축)  
 ***
 - 🙈 Channel
-  + Blog : https://seojeonghyeon0630.notion.site/Zayden-s-Blog-fba03c0cc0b3413bbcf27cfc043d7aec 
+  + Inner Blog : https://seojeonghyeon0630.notion.site/Zayden-s-Blog-fba03c0cc0b3413bbcf27cfc043d7aec 
+  + Outer Blog : https://lime-it.tistory.com
