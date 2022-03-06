@@ -1,6 +1,6 @@
 ### Hi, Curious Rabbits(🐰🐰🐰)!
 #### 아직 궁금한게 많지만 꾸준히 노력하는 Software Enginner입니다. :flushed:
-***
+
 <!--
 **seojeonghyeon/seojeonghyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🔭 업무 경험
   + 2019.03.01 ~ 2021.06.30 : 8567부대 육군 중위(만기 전역)
   + 2022.02.07 ~            : Hyundai Autoever Software Engineer
-***
+
 <!--
 - 🌱 학력
   + 2015.03.01 ~ 2019.02.28 : 한성대학교 공과대학 IT응용시스템 공학사(졸업)
