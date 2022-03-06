@@ -15,29 +15,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 - ⚡ Skill
   + Spring Boot(Mono, MVC) : 중
   + Spring Cloud(MSA, Kafka) : 중
   + MariaDB(MySQL) : 중
   + Java 8 : 중
   + Docker : 중
+  + Kafka 
   + 관심있는 분야 
     + Vue.js(+ Nuxt.js)   😉
     + AI(NLP)             😊
     + Computer Vision     🙃
+-->
 ***
 - 🔭 업무 경험
   + 2019.03.01 ~ 2021.06.30 : 8567부대 육군 중위(만기 전역)
-  + 2022.02.07 ~            : 현대오토에버 Software Engineer
+  + 2022.02.07 ~            : Hyundai Autoever Software Engineer
 ***
-
+<!--
 - 🌱 학력
   + 2015.03.01 ~ 2019.02.28 : 한성대학교 공과대학 IT응용시스템 공학사(졸업)
   + 2019.09.01 ~ 2021.08.07 : 아주대학교 정보통신대학원 정보통신공학과 지능형소프트웨어전공 석사(졸업)
+-->
+
 ***
 
 - 📫 How to reach me
   + seojeonghyeon0630@gmail.com 
+
+<!--
 ***
 - :octocat: GitHub 내 프로젝트
     + Mood 데이팅 앱 어플리케이션 서버(Mood-Web) 2021.09~2021.10
@@ -71,6 +78,7 @@ Here are some ideas to get you started:
     + 진행내용 : 공원에 보이는 야외운동기구에 앱을 통한 회원관리, 운동을 통한 마일리지 적립, 미세먼지 정보 제공 등 앱 서비스 제공
     + 학술대회 발표눈문 : https://www.koreascience.or.kr/article/CFKO201831342440983.pdf
     + 담당역할 : 팀장(기획 문서화(요구사항명세서 제작), 팀원업무 분배, 서버개발(프론트+백엔드), ARTIK S/W구축)  
+-->
 ***
 - 🙈 Channel
   + Inner Blog : https://seojeonghyeon0630.notion.site/Zayden-s-Blog-fba03c0cc0b3413bbcf27cfc043d7aec 
