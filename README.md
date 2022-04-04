@@ -1,6 +1,6 @@
-### Hi, Curious Rabbits(🐰🐰🐰)!
-#### 아직 궁금한게 많지만 꾸준히 노력하는 Software Enginner입니다. :flushed:
+### Hi, Curious Rabbits.
 
+How am I..
 <!--
 **seojeonghyeon/seojeonghyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
