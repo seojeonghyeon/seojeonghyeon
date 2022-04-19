@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ***
 - 🔭 업무 경험
   + 2019.03.01 ~ 2021.06.30 : 8567부대 육군 중위(만기 전역)
-  + 2022.02.07 ~            : Hyundai Autoever Software Engineer
+  + 2022.02.07 ~            : Connected Car Service Software Engineer(Service Hub, Elastic Stack)
 
 <!--
 - 🌱 학력
