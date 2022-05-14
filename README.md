@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   + Spring Boot(Mono, MVC) : 중
   + Spring Cloud(MSA, Kafka) : 중
   + MariaDB(MySQL) : 중
-  + <img src="https://img.shields.io/badge/Java-#007396?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+  + <img src="https://img.shields.io/badge/Java-#007396?style=for-the-badge&logo=Java&logoColor=white">
   + Docker : 중
   + Kafka 
   + 관심있는 분야 
