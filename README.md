@@ -15,23 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
 - ⚡ Skill
   + Spring Boot(Mono, MVC) : 중
   + Spring Cloud(MSA, Kafka) : 중
   + MariaDB(MySQL) : 중
-  + Java 8 : 중
+  + <img src="https://img.shields.io/badge/Java-#007396?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
   + Docker : 중
   + Kafka 
   + 관심있는 분야 
     + Vue.js(+ Nuxt.js)   😉
     + AI(NLP)             😊
     + Computer Vision     🙃
--->
 ***
 - 🔭 업무 경험
   + 2019.03.01 ~ 2021.06.30 : 8567부대 육군 중위(만기 전역)
-  + 2022.02.07 ~            : Connected Car Service Software Engineer(Service Hub, Elastic Stack)
+  + 2022.02.07 ~            : Connected Car Service Software Engineer
 
 <!--
 - 🌱 학력
