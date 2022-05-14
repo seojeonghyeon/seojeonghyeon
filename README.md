@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   + Spring Boot(Mono, MVC) : 중
   + Spring Cloud(MSA, Kafka) : 중
   + MariaDB(MySQL) : 중
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Elastic Stack-005571?style=for-the-badge&logo=Elastic%20Stack&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Elastic Stack-005571?style=flat-square&logo=Elastic%20Stack&logoColor=white"></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
