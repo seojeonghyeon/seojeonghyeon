@@ -75,5 +75,5 @@ Here are some ideas to get you started:
 -->
 ***
 - 🙈 Channel
-  + Inner Blog(Main) : https://seojeonghyeon0630.notion.site/Zayden-s-Blog-fba03c0cc0b3413bbcf27cfc043d7aec 
+  <--- + Inner Blog(Main) : https://seojeonghyeon0630.notion.site/Zayden-s-Blog-fba03c0cc0b3413bbcf27cfc043d7aec --->
   + Outer Blog : https://lime-it.tistory.com
