@@ -18,10 +18,10 @@ Here are some ideas to get you started:
   + <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white"/></a> + Spring Cloud(MSA)
   + <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/></a><img src="https://img.shields.io/badge/Elastic Stack-005571?style=flat-square&logo=Elastic%20Stack&logoColor=white"></a><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
   + <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
-  + Interests
+<!--   + Interests
     + Vue.js(+ Nuxt.js)
     + AI(NLP)
-    + Computer Vision
+    + Computer Vision -->
 ***
 - 🔭 Work Experience
   + 2019.03.01 ~ 2021.06.30 : 8567 Army Lieutenant
