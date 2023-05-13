@@ -75,5 +75,4 @@ Here are some ideas to get you started:
 -->
 ***
 - 🙈 Channel
-  + Inner Blog(Main) : https://seojeonghyeon0630.notion.site/Jeonghyeon-s-Blog-fba03c0cc0b3413bbcf27cfc043d7aec
-  + Outer Blog : https://lime-it.tistory.com
+  + Blog : https://seojeonghyeon0630.notion.site/Jeonghyeon-s-Blog-6f95053591344de48acd4351d071bf1b
