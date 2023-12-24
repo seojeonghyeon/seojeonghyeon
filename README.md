@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚡ Skill
-  + <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+  + <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a> <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> -->
   + <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   + <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/></a>
   + <img src="https://img.shields.io/badge/Elastic Stack-005571?style=flat-square&logo=Elastic%20Stack&logoColor=white"></a><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
