@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ***
 - 🔭 Work Experience
   + 2019.03.01 ~ 2021.06.30 : 8567 Army Lieutenant
-  + 2022.02.07 ~ 2024.02.16 : Hyundai Autoever Connected Car Service Software Engineer
+  + 2022.02.07 ~ 2024.02.16 : Hyundai Autoever Connected Car Service Software Engineer(EU/RU Vihicle Gateway, ELK Server)
   + 2024.02.19 ~            : kakobank Back-end Server Developer
 
 <!--
